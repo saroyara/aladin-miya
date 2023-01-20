@@ -1,0 +1,319 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.a{
+    color: #737272;
+    list-style: none;
+    
+}
+ul{
+    list-style: none;
+}
+ul li::before{
+    content: '\2714\0020';
+    color: #005FAC;
+}
+/* GLOBAL STYLE1 */
+.btn-first{
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 60px;
+    background-color: orange;
+}
+.section-title{
+    color: #151414;
+    font-weight: 2000;
+    font-size: 30px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: calibri;
+    
+}
+.description{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: #73727
+}
+    
+    
+ /* BANNER STYLE1 */
+ .kada{
+     background: url(banner1.png);
+     background-size: cover;
+    }
+ .banner1{
+     text-align: right;
+     margin-right: 200px;
+     padding-top: 200px;
+     padding-bottom: 200px;
+     margin-bottom: 130px;
+ }
+ .banner-design{
+    font-size: 48px;
+    font-weight: 1800;
+    color: #151414;
+    margin-bottom: 24px;
+    font-family: calibri;
+ }
+ .banner-underline{
+    font-size: 16px;
+    color: #0e0808;
+    font-weight: 400;
+    margin-bottom: 32px;
+ }
+
+ /* MAIN AREA STYLE1 */
+ main1{
+     margin-left: 200px;
+     margin-right: 100px;
+ }
+
+ /* MY FAILURES OF PREVIOUS STYLE1 */
+ .failures-of-previous{
+     display: flex;
+     gap: 80px;
+ }
+ .failures-of-previous-contain{
+     margin-top: 300px;
+ }
+ .failures-of-previous-contain ul{
+    list-style: none;
+ }
+ 
+ .failures-of-previous-contain ul li{
+    margin-bottom: 10px;
+ }
+ .failures-of-previous-contain ul li i{
+     color: #16D887;
+ }
+
+ /* MY PLANS1 */
+ .my-plans{
+     text-align: center;
+     margin-top: 120px;
+     font-family: calibri;
+ }
+ .plan-item-container{
+     display: flex;
+     gap: 80px;
+ }
+ .plan-item h2{
+    font-weight: 700;
+    font-size: 20px;
+    color: #151414;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .plan-item p{
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 29px;
+    color: #737272;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+.call-now{
+    background: url(watch.png);
+    padding: 10px;
+    margin: 60px;
+    border-radius: 5.5%;
+}
+
+
+ /* FOOTER AREA STYLE1 */
+ footer{
+    background:#151414;
+    
+ }
+.footer-container{
+    display: flex;
+    gap:300px;
+    padding: 60px;
+
+}
+.future-description{
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-family: calibri;
+}
+.email{
+    color: #fff;
+    margin-bottom: 20px;
+    font-family: calibri;
+}
+.phone{
+    color: #fff;
+    margin-bottom: 30px;
+    font-family: calibri;
+}
+.icon{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.sub1 h2{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family: calibri;
+}
+.sub1 input[type="email"]{
+    padding: 12px;
+    width: 100%;
+    border-color: #fff;
+    outline: white;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    background-color: #151414;
+    font-family: calibri;
+    
+    
+}
+.sub1 input[type="submit"]{
+    background: white;
+    color: orange;
+    font-weight: 500;
+    font-size: 17px;
+    border-radius: 6px;
+    padding: 15px;
+    font-family: calibri;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'work sans';
+}
+/* GLOBAL STYLE2 */
+.btn-primary2{
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 60px;
+    background-color: orangered;
+}
+
+.description{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.section-heading{
+    font-weight: 700;
+    font-size: 40px;
+    color: #fff;
+    margin-bottom: 24px;
+ }
+ /* BANNER STYLE2 */
+ .ada{
+     background: url(banner2.png);
+     background-size: cover;
+ }
+ .banner2{
+     text-align: right;
+     margin-right: 200px;
+     padding-top: 200px;
+     padding-bottom: 200px;
+     margin-bottom: 130px;
+ }
+ .banner-title{
+    font-size: 65px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 24px;
+ }
+ .banner-description{
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: 400;
+    margin-bottom: 32px;
+ }
+
+ /* MAIN AREA STYLE2 */
+ main{
+     margin-left: 200px;
+     margin-right: 100px;
+ }
+
+ 
+
+ 
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'work sans';
+}
+
+/* GLOBAL STYLE3 */
+.btn-primary{
+    color: orangered;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 14px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 60px;
+}
+
+.description{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.section-heading{
+    font-weight: 1400;
+    font-size: 30px;
+    color: #fff;
+    margin-bottom: 24px;
+    font-family: calibri;
+ }
+ /* BANNER STYLE3 */
+ .bada{
+     background: url(banner3.png);
+     background-size: cover;
+ }
+ .banner{
+     text-align: right;
+     margin-right: 200px;
+     padding-top: 200px;
+     padding-bottom: 200px;
+     margin-bottom: 130px;
+ }
+ .banner-title{
+    font-size: 65px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 24px;
+ }
+ .banner-description{
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: 400;
+    margin-bottom: 32px;
+ }
+
+ /* MAIN AREA STYLE3 */
+ main{
+     margin-left: 200px;
+     margin-right: 100px;
+ }
+
+ 
+ 
